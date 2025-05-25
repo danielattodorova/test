@@ -1,2 +1,4 @@
 Test added a new text 1 
 edited 1
+
+add a new line
